@@ -10,7 +10,7 @@ class Terminal{
 };
 
 int main(void){
-    Terminal Console;
-    Console.log("sigma!");
+    Terminal console;
+    console.log("sigma!");
     return 0;
 }
