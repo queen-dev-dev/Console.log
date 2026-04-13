@@ -3,5 +3,5 @@ class Terminal:
         print(message)
     
     
-Console = Terminal()
-Console.log("sigma")
+console = Terminal()
+console.log("sigma")
